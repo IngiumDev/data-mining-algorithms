@@ -5812,6 +5812,8 @@ ext/libtool
  .idea/modules
  *.iml
  *.ipr
+ # add entire .idea folder
+ .idea/
 
 # CMake
 
